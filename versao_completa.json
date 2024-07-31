@@ -1,0 +1,1171 @@
+{
+  "filename": "Saúde em Dia (4).pdf",
+  "page_data": [
+    {
+      "page": 0,
+      "image_url": "https://images.nanonets.com/tr:rt-0/uploadedfiles/rawocr/29430504-2458-427e-8483-941869c8311a-1.jpeg?ik-s=6307641849506b4d9a9e148d7c9d80860b90dc90&ik-t=1722460977",
+      "size": {
+        "width": 2481,
+        "height": 3509
+      },
+      "words": [
+        {
+          "text": "Sandzem",
+          "xmin": 737,
+          "ymin": 165,
+          "xmax": 1426,
+          "ymax": 330
+        },
+        {
+          "text": "Dia",
+          "xmin": 1477,
+          "ymin": 153,
+          "xmax": 1751,
+          "ymax": 293
+        },
+        {
+          "text": "m",
+          "xmin": 1898,
+          "ymin": 142,
+          "xmax": 1972,
+          "ymax": 199
+        },
+        {
+          "text": "NOME",
+          "xmin": 885,
+          "ymin": 462,
+          "xmax": 1146,
+          "ymax": 522
+        },
+        {
+          "text": "PACIENTE",
+          "xmin": 1174,
+          "ymin": 462,
+          "xmax": 1596,
+          "ymax": 522
+        },
+        {
+          "text": "AVALIACAO",
+          "xmin": 886,
+          "ymin": 569,
+          "xmax": 1230,
+          "ymax": 635
+        },
+        {
+          "text": "|",
+          "xmin": 1230,
+          "ymin": 595,
+          "xmax": 1232,
+          "ymax": 600
+        },
+        {
+          "text": ":21/05/2024",
+          "xmin": 1230,
+          "ymin": 581,
+          "xmax": 1556,
+          "ymax": 626
+        },
+        {
+          "text": "Informacoes",
+          "xmin": 430,
+          "ymin": 789,
+          "xmax": 740,
+          "ymax": 837
+        },
+        {
+          "text": "Gerais",
+          "xmin": 754,
+          "ymin": 788,
+          "xmax": 914,
+          "ymax": 829
+        },
+        {
+          "text": "Data",
+          "xmin": 429,
+          "ymin": 898,
+          "xmax": 526,
+          "ymax": 929
+        },
+        {
+          "text": "8R3",
+          "xmin": 1319,
+          "ymin": 777,
+          "xmax": 1512,
+          "ymax": 934
+        },
+        {
+          "text": "Habitos",
+          "xmin": 1565,
+          "ymin": 789,
+          "xmax": 1757,
+          "ymax": 829
+        },
+        {
+          "text": "O",
+          "xmin": 1469,
+          "ymin": 860,
+          "xmax": 1509,
+          "ymax": 884
+        },
+        {
+          "text": "de",
+          "xmin": 540,
+          "ymin": 898,
+          "xmax": 589,
+          "ymax": 929
+        },
+        {
+          "text": "nascimento",
+          "xmin": 605,
+          "ymin": 898,
+          "xmax": 852,
+          "ymax": 931
+        },
+        {
+          "text": ":",
+          "xmin": 849,
+          "ymin": 907,
+          "xmax": 857,
+          "ymax": 920
+        },
+        {
+          "text": ":14/05/1973",
+          "xmin": 853,
+          "ymin": 898,
+          "xmax": 1094,
+          "ymax": 932
+        },
+        {
+          "text": "O",
+          "xmin": 1411,
+          "ymin": 922,
+          "xmax": 1438,
+          "ymax": 950
+        },
+        {
+          "text": "Alimentacao:",
+          "xmin": 1561,
+          "ymin": 898,
+          "xmax": 1840,
+          "ymax": 940
+        },
+        {
+          "text": "adequada",
+          "xmin": 1838,
+          "ymin": 898,
+          "xmax": 2053,
+          "ymax": 935
+        },
+        {
+          "text": "Idade",
+          "xmin": 429,
+          "ymin": 960,
+          "xmax": 547,
+          "ymax": 992
+        },
+        {
+          "text": "A",
+          "xmin": 545,
+          "ymin": 970,
+          "xmax": 555,
+          "ymax": 983
+        },
+        {
+          "text": "51",
+          "xmin": 583,
+          "ymin": 960,
+          "xmax": 618,
+          "ymax": 990
+        },
+        {
+          "text": "anos",
+          "xmin": 615,
+          "ymin": 961,
+          "xmax": 726,
+          "ymax": 992
+        },
+        {
+          "text": "Cigarro",
+          "xmin": 1562,
+          "ymin": 959,
+          "xmax": 1722,
+          "ymax": 1003
+        },
+        {
+          "text": "A",
+          "xmin": 1718,
+          "ymin": 970,
+          "xmax": 1726,
+          "ymax": 983
+        },
+        {
+          "text": "nao",
+          "xmin": 1745,
+          "ymin": 961,
+          "xmax": 1815,
+          "ymax": 992
+        },
+        {
+          "text": "fuma",
+          "xmin": 1830,
+          "ymin": 960,
+          "xmax": 1930,
+          "ymax": 992
+        },
+        {
+          "text": "Peso:",
+          "xmin": 429,
+          "ymin": 1023,
+          "xmax": 541,
+          "ymax": 1055
+        },
+        {
+          "text": "105",
+          "xmin": 554,
+          "ymin": 1023,
+          "xmax": 622,
+          "ymax": 1055
+        },
+        {
+          "text": "Kg",
+          "xmin": 641,
+          "ymin": 1023,
+          "xmax": 690,
+          "ymax": 1066
+        },
+        {
+          "text": "Alcool",
+          "xmin": 1561,
+          "ymin": 1012,
+          "xmax": 1693,
+          "ymax": 1055
+        },
+        {
+          "text": "|",
+          "xmin": 1698,
+          "ymin": 1033,
+          "xmax": 1704,
+          "ymax": 1040
+        },
+        {
+          "text": "sem",
+          "xmin": 1720,
+          "ymin": 1033,
+          "xmax": 1795,
+          "ymax": 1055
+        },
+        {
+          "text": "excesso",
+          "xmin": 1813,
+          "ymin": 1033,
+          "xmax": 1971,
+          "ymax": 1055
+        },
+        {
+          "text": "Altura:",
+          "xmin": 426,
+          "ymin": 1085,
+          "xmax": 569,
+          "ymax": 1118
+        },
+        {
+          "text": ":1.80m",
+          "xmin": 563,
+          "ymin": 1085,
+          "xmax": 699,
+          "ymax": 1118
+        },
+        {
+          "text": "Aerobico",
+          "xmin": 1561,
+          "ymin": 1084,
+          "xmax": 1757,
+          "ymax": 1118
+        },
+        {
+          "text": "|",
+          "xmin": 1754,
+          "ymin": 1094,
+          "xmax": 1761,
+          "ymax": 1106
+        },
+        {
+          "text": "2x/sem",
+          "xmin": 1779,
+          "ymin": 1085,
+          "xmax": 1919,
+          "ymax": 1123
+        },
+        {
+          "text": "I",
+          "xmin": 429,
+          "ymin": 1148,
+          "xmax": 434,
+          "ymax": 1169
+        },
+        {
+          "text": "IMC:",
+          "xmin": 431,
+          "ymin": 1147,
+          "xmax": 526,
+          "ymax": 1179
+        },
+        {
+          "text": "32",
+          "xmin": 541,
+          "ymin": 1148,
+          "xmax": 587,
+          "ymax": 1179
+        },
+        {
+          "text": "Kg/m",
+          "xmin": 603,
+          "ymin": 1143,
+          "xmax": 718,
+          "ymax": 1190
+        },
+        {
+          "text": "2",
+          "xmin": 714,
+          "ymin": 1143,
+          "xmax": 724,
+          "ymax": 1159
+        },
+        {
+          "text": "Treino",
+          "xmin": 1561,
+          "ymin": 1148,
+          "xmax": 1694,
+          "ymax": 1181
+        },
+        {
+          "text": "de",
+          "xmin": 1709,
+          "ymin": 1149,
+          "xmax": 1760,
+          "ymax": 1179
+        },
+        {
+          "text": "forca:",
+          "xmin": 1772,
+          "ymin": 1149,
+          "xmax": 1891,
+          "ymax": 1187
+        },
+        {
+          "text": "2x/sem",
+          "xmin": 1903,
+          "ymin": 1149,
+          "xmax": 2045,
+          "ymax": 1186
+        },
+        {
+          "text": "a",
+          "xmin": 201,
+          "ymin": 1346,
+          "xmax": 265,
+          "ymax": 1396
+        },
+        {
+          "text": "Medicamentos",
+          "xmin": 430,
+          "ymin": 1339,
+          "xmax": 801,
+          "ymax": 1379
+        },
+        {
+          "text": "Losartana",
+          "xmin": 431,
+          "ymin": 1448,
+          "xmax": 625,
+          "ymax": 1480
+        },
+        {
+          "text": "50",
+          "xmin": 642,
+          "ymin": 1447,
+          "xmax": 693,
+          "ymax": 1477
+        },
+        {
+          "text": "F",
+          "xmin": 1322,
+          "ymin": 1329,
+          "xmax": 1508,
+          "ymax": 1504
+        },
+        {
+          "text": "Outros",
+          "xmin": 1562,
+          "ymin": 1338,
+          "xmax": 1736,
+          "ymax": 1379
+        },
+        {
+          "text": "O",
+          "xmin": 232,
+          "ymin": 1378,
+          "xmax": 357,
+          "ymax": 1502
+        },
+        {
+          "text": "mg",
+          "xmin": 710,
+          "ymin": 1457,
+          "xmax": 770,
+          "ymax": 1490
+        },
+        {
+          "text": "a",
+          "xmin": 1401,
+          "ymin": 1458,
+          "xmax": 1428,
+          "ymax": 1485
+        },
+        {
+          "text": "n",
+          "xmin": 1428,
+          "ymin": 1456,
+          "xmax": 1451,
+          "ymax": 1481
+        },
+        {
+          "text": "Vacinacao:",
+          "xmin": 1562,
+          "ymin": 1447,
+          "xmax": 1791,
+          "ymax": 1487
+        },
+        {
+          "text": "nao",
+          "xmin": 1806,
+          "ymin": 1448,
+          "xmax": 1875,
+          "ymax": 1480
+        },
+        {
+          "text": "atualizada",
+          "xmin": 1890,
+          "ymin": 1447,
+          "xmax": 2094,
+          "ymax": 1480
+        },
+        {
+          "text": "Hidroclorotiazida",
+          "xmin": 430,
+          "ymin": 1510,
+          "xmax": 790,
+          "ymax": 1543
+        },
+        {
+          "text": "25",
+          "xmin": 790,
+          "ymin": 1510,
+          "xmax": 836,
+          "ymax": 1541
+        },
+        {
+          "text": "mg",
+          "xmin": 854,
+          "ymin": 1520,
+          "xmax": 913,
+          "ymax": 1552
+        },
+        {
+          "text": "Urologista:",
+          "xmin": 1564,
+          "ymin": 1510,
+          "xmax": 1793,
+          "ymax": 1550
+        },
+        {
+          "text": "em",
+          "xmin": 1807,
+          "ymin": 1520,
+          "xmax": 1866,
+          "ymax": 1543
+        },
+        {
+          "text": "dia",
+          "xmin": 1881,
+          "ymin": 1510,
+          "xmax": 1938,
+          "ymax": 1543
+        },
+        {
+          "text": "M",
+          "xmin": 183,
+          "ymin": 1886,
+          "xmax": 373,
+          "ymax": 2005
+        },
+        {
+          "text": "Aptidao",
+          "xmin": 426,
+          "ymin": 1891,
+          "xmax": 626,
+          "ymax": 1937
+        },
+        {
+          "text": "a",
+          "xmin": 1344,
+          "ymin": 1906,
+          "xmax": 1474,
+          "ymax": 1971
+        },
+        {
+          "text": "Exames",
+          "xmin": 1565,
+          "ymin": 1891,
+          "xmax": 1756,
+          "ymax": 1931
+        },
+        {
+          "text": "Laboratoriais",
+          "xmin": 1773,
+          "ymin": 1891,
+          "xmax": 2100,
+          "ymax": 1931
+        },
+        {
+          "text": "Cardiorrespiratoria",
+          "xmin": 428,
+          "ymin": 1965,
+          "xmax": 905,
+          "ymax": 2012
+        },
+        {
+          "text": "|",
+          "xmin": 1353,
+          "ymin": 1995,
+          "xmax": 1354,
+          "ymax": 2027
+        },
+        {
+          "text": "-",
+          "xmin": 1424,
+          "ymin": 1994,
+          "xmax": 1426,
+          "ymax": 2009
+        },
+        {
+          "text": "D",
+          "xmin": 1427,
+          "ymin": 1977,
+          "xmax": 1474,
+          "ymax": 2021
+        },
+        {
+          "text": "Glicemi",
+          "xmin": 1562,
+          "ymin": 1998,
+          "xmax": 1716,
+          "ymax": 2031
+        },
+        {
+          "text": "ia",
+          "xmin": 1709,
+          "ymin": 2000,
+          "xmax": 1746,
+          "ymax": 2031
+        },
+        {
+          "text": "de",
+          "xmin": 1760,
+          "ymin": 2000,
+          "xmax": 1826,
+          "ymax": 2031
+        },
+        {
+          "text": "iejum",
+          "xmin": 1825,
+          "ymin": 1999,
+          "xmax": 1938,
+          "ymax": 2034
+        },
+        {
+          "text": "92mg/dl",
+          "xmin": 1964,
+          "ymin": 1999,
+          "xmax": 2149,
+          "ymax": 2039
+        },
+        {
+          "text": "Boa",
+          "xmin": 444,
+          "ymin": 2075,
+          "xmax": 517,
+          "ymax": 2108
+        },
+        {
+          "text": "(",
+          "xmin": 533,
+          "ymin": 2077,
+          "xmax": 539,
+          "ymax": 2098
+        },
+        {
+          "text": "AHA",
+          "xmin": 541,
+          "ymin": 2075,
+          "xmax": 639,
+          "ymax": 2108
+        },
+        {
+          "text": "Hemoglobina",
+          "xmin": 1564,
+          "ymin": 2062,
+          "xmax": 1847,
+          "ymax": 2100
+        },
+        {
+          "text": "glicada",
+          "xmin": 1861,
+          "ymin": 2062,
+          "xmax": 2016,
+          "ymax": 2100
+        },
+        {
+          "text": "|",
+          "xmin": 2015,
+          "ymin": 2071,
+          "xmax": 2019,
+          "ymax": 2079
+        },
+        {
+          "text": "5.2",
+          "xmin": 2038,
+          "ymin": 2062,
+          "xmax": 2094,
+          "ymax": 2094
+        },
+        {
+          "text": "%",
+          "xmin": 2109,
+          "ymin": 2062,
+          "xmax": 2138,
+          "ymax": 2092
+        },
+        {
+          "text": "Teste",
+          "xmin": 441,
+          "ymin": 2137,
+          "xmax": 548,
+          "ymax": 2168
+        },
+        {
+          "text": "Ergometrico:",
+          "xmin": 566,
+          "ymin": 2137,
+          "xmax": 825,
+          "ymax": 2177
+        },
+        {
+          "text": ":10",
+          "xmin": 820,
+          "ymin": 2137,
+          "xmax": 880,
+          "ymax": 2168
+        },
+        {
+          "text": "MET",
+          "xmin": 898,
+          "ymin": 2137,
+          "xmax": 990,
+          "ymax": 2168
+        },
+        {
+          "text": "TSH",
+          "xmin": 1561,
+          "ymin": 2189,
+          "xmax": 1647,
+          "ymax": 2220
+        },
+        {
+          "text": ":3.49",
+          "xmin": 1654,
+          "ymin": 2189,
+          "xmax": 1757,
+          "ymax": 2220
+        },
+        {
+          "text": "mUI/mL",
+          "xmin": 1773,
+          "ymin": 2189,
+          "xmax": 1938,
+          "ymax": 2223
+        },
+        {
+          "text": "Colesterol",
+          "xmin": 1562,
+          "ymin": 2290,
+          "xmax": 1780,
+          "ymax": 2325
+        },
+        {
+          "text": "total",
+          "xmin": 1793,
+          "ymin": 2291,
+          "xmax": 1890,
+          "ymax": 2324
+        },
+        {
+          "text": "|",
+          "xmin": 1895,
+          "ymin": 2301,
+          "xmax": 1898,
+          "ymax": 2307
+        },
+        {
+          "text": "174",
+          "xmin": 1916,
+          "ymin": 2291,
+          "xmax": 1976,
+          "ymax": 2322
+        },
+        {
+          "text": "mg/dL",
+          "xmin": 1993,
+          "ymin": 2291,
+          "xmax": 2124,
+          "ymax": 2333
+        },
+        {
+          "text": "LDL-C:",
+          "xmin": 1564,
+          "ymin": 2354,
+          "xmax": 1713,
+          "ymax": 2385
+        },
+        {
+          "text": "111",
+          "xmin": 1726,
+          "ymin": 2354,
+          "xmax": 1767,
+          "ymax": 2382
+        },
+        {
+          "text": "mg/dL",
+          "xmin": 1785,
+          "ymin": 2354,
+          "xmax": 1917,
+          "ymax": 2395
+        },
+        {
+          "text": "HDL-C",
+          "xmin": 1564,
+          "ymin": 2416,
+          "xmax": 1713,
+          "ymax": 2448
+        },
+        {
+          "text": "T",
+          "xmin": 1710,
+          "ymin": 2422,
+          "xmax": 1717,
+          "ymax": 2433
+        },
+        {
+          "text": "1",
+          "xmin": 254,
+          "ymin": 2453,
+          "xmax": 306,
+          "ymax": 2548
+        },
+        {
+          "text": "Recomendacoes",
+          "xmin": 430,
+          "ymin": 2440,
+          "xmax": 843,
+          "ymax": 2488
+        },
+        {
+          "text": "36",
+          "xmin": 1717,
+          "ymin": 2417,
+          "xmax": 1782,
+          "ymax": 2448
+        },
+        {
+          "text": "mg/dL",
+          "xmin": 1798,
+          "ymin": 2417,
+          "xmax": 1931,
+          "ymax": 2460
+        },
+        {
+          "text": "Triglicerides",
+          "xmin": 1561,
+          "ymin": 2480,
+          "xmax": 1823,
+          "ymax": 2519
+        },
+        {
+          "text": "|",
+          "xmin": 1827,
+          "ymin": 2490,
+          "xmax": 1830,
+          "ymax": 2497
+        },
+        {
+          "text": "122",
+          "xmin": 1847,
+          "ymin": 2480,
+          "xmax": 1908,
+          "ymax": 2511
+        },
+        {
+          "text": "mg/dL",
+          "xmin": 1924,
+          "ymin": 2480,
+          "xmax": 2057,
+          "ymax": 2521
+        },
+        {
+          "text": "-",
+          "xmin": 429,
+          "ymin": 2556,
+          "xmax": 441,
+          "ymax": 2566
+        },
+        {
+          "text": "Reduzir",
+          "xmin": 484,
+          "ymin": 2546,
+          "xmax": 636,
+          "ymax": 2579
+        },
+        {
+          "text": "ingesta",
+          "xmin": 651,
+          "ymin": 2546,
+          "xmax": 792,
+          "ymax": 2585
+        },
+        {
+          "text": "de",
+          "xmin": 808,
+          "ymin": 2546,
+          "xmax": 857,
+          "ymax": 2579
+        },
+        {
+          "text": "gorduras",
+          "xmin": 870,
+          "ymin": 2546,
+          "xmax": 1048,
+          "ymax": 2586
+        },
+        {
+          "text": "S",
+          "xmin": 1044,
+          "ymin": 2556,
+          "xmax": 1059,
+          "ymax": 2579
+        },
+        {
+          "text": "Repetir",
+          "xmin": 484,
+          "ymin": 2609,
+          "xmax": 630,
+          "ymax": 2648
+        },
+        {
+          "text": "laboratorio",
+          "xmin": 644,
+          "ymin": 2610,
+          "xmax": 861,
+          "ymax": 2642
+        },
+        {
+          "text": "Acido",
+          "xmin": 1561,
+          "ymin": 2571,
+          "xmax": 1682,
+          "ymax": 2615
+        },
+        {
+          "text": "urico:",
+          "xmin": 1697,
+          "ymin": 2581,
+          "xmax": 1812,
+          "ymax": 2615
+        },
+        {
+          "text": "7.1",
+          "xmin": 1807,
+          "ymin": 2582,
+          "xmax": 1867,
+          "ymax": 2615
+        },
+        {
+          "text": "em",
+          "xmin": 877,
+          "ymin": 2619,
+          "xmax": 935,
+          "ymax": 2642
+        },
+        {
+          "text": "3",
+          "xmin": 952,
+          "ymin": 2609,
+          "xmax": 972,
+          "ymax": 2638
+        },
+        {
+          "text": "meses",
+          "xmin": 971,
+          "ymin": 2615,
+          "xmax": 1113,
+          "ymax": 2642
+        },
+        {
+          "text": "mg/dl",
+          "xmin": 1864,
+          "ymin": 2582,
+          "xmax": 2016,
+          "ymax": 2624
+        },
+        {
+          "text": "colonoscopia",
+          "xmin": 642,
+          "ymin": 2672,
+          "xmax": 908,
+          "ymax": 2709
+        },
+        {
+          "text": "Ureia",
+          "xmin": 1564,
+          "ymin": 2645,
+          "xmax": 1672,
+          "ymax": 2678
+        },
+        {
+          "text": "|",
+          "xmin": 1674,
+          "ymin": 2655,
+          "xmax": 1682,
+          "ymax": 2666
+        },
+        {
+          "text": "Solicito",
+          "xmin": 482,
+          "ymin": 2671,
+          "xmax": 628,
+          "ymax": 2703
+        },
+        {
+          "text": "42",
+          "xmin": 1698,
+          "ymin": 2646,
+          "xmax": 1746,
+          "ymax": 2678
+        },
+        {
+          "text": "2mg/dL",
+          "xmin": 1741,
+          "ymin": 2646,
+          "xmax": 1895,
+          "ymax": 2688
+        },
+        {
+          "text": "Atualizar",
+          "xmin": 481,
+          "ymin": 2734,
+          "xmax": 659,
+          "ymax": 2766
+        },
+        {
+          "text": "carteira",
+          "xmin": 681,
+          "ymin": 2734,
+          "xmax": 831,
+          "ymax": 2766
+        },
+        {
+          "text": "vacinal.",
+          "xmin": 846,
+          "ymin": 2734,
+          "xmax": 990,
+          "ymax": 2766
+        },
+        {
+          "text": "Creatinina:",
+          "xmin": 1562,
+          "ymin": 2709,
+          "xmax": 1794,
+          "ymax": 2741
+        },
+        {
+          "text": "1.13",
+          "xmin": 1808,
+          "ymin": 2709,
+          "xmax": 1870,
+          "ymax": 2741
+        },
+        {
+          "text": "mg/dL",
+          "xmin": 1886,
+          "ymin": 2709,
+          "xmax": 2018,
+          "ymax": 2748
+        },
+        {
+          "text": "Manter",
+          "xmin": 484,
+          "ymin": 2796,
+          "xmax": 628,
+          "ymax": 2829
+        },
+        {
+          "text": "atividade",
+          "xmin": 641,
+          "ymin": 2796,
+          "xmax": 822,
+          "ymax": 2829
+        },
+        {
+          "text": "fisica",
+          "xmin": 838,
+          "ymin": 2796,
+          "xmax": 936,
+          "ymax": 2829
+        },
+        {
+          "text": "TGO",
+          "xmin": 1561,
+          "ymin": 2810,
+          "xmax": 1665,
+          "ymax": 2844
+        },
+        {
+          "text": "17U/L",
+          "xmin": 1686,
+          "ymin": 2811,
+          "xmax": 1806,
+          "ymax": 2843
+        },
+        {
+          "text": "TGP:",
+          "xmin": 1561,
+          "ymin": 2873,
+          "xmax": 1664,
+          "ymax": 2906
+        },
+        {
+          "text": ":19",
+          "xmin": 1657,
+          "ymin": 2874,
+          "xmax": 1716,
+          "ymax": 2906
+        },
+        {
+          "text": "U/L",
+          "xmin": 1732,
+          "ymin": 2874,
+          "xmax": 1805,
+          "ymax": 2907
+        },
+        {
+          "text": "Dra",
+          "xmin": 704,
+          "ymin": 3077,
+          "xmax": 1063,
+          "ymax": 3219
+        },
+        {
+          "text": "Mariana",
+          "xmin": 1092,
+          "ymin": 3116,
+          "xmax": 1398,
+          "ymax": 3179
+        },
+        {
+          "text": "Moretti",
+          "xmin": 1429,
+          "ymin": 3114,
+          "xmax": 1715,
+          "ymax": 3179
+        },
+        {
+          "text": "CRM-S",
+          "xmin": 971,
+          "ymin": 3206,
+          "xmax": 1137,
+          "ymax": 3232
+        },
+        {
+          "text": "143553",
+          "xmin": 1172,
+          "ymin": 3210,
+          "xmax": 1313,
+          "ymax": 3237
+        },
+        {
+          "text": "CARDIOLOGIA",
+          "xmin": 1363,
+          "ymin": 3206,
+          "xmax": 1664,
+          "ymax": 3232
+        },
+        {
+          "text": "O",
+          "xmin": 134,
+          "ymin": 3402,
+          "xmax": 158,
+          "ymax": 3425
+        },
+        {
+          "text": "Braganca",
+          "xmin": 196,
+          "ymin": 3400,
+          "xmax": 351,
+          "ymax": 3436
+        },
+        {
+          "text": "Paulista",
+          "xmin": 364,
+          "ymin": 3400,
+          "xmax": 491,
+          "ymax": 3428
+        },
+        {
+          "text": "Atibaia",
+          "xmin": 523,
+          "ymin": 3400,
+          "xmax": 633,
+          "ymax": 3428
+        },
+        {
+          "text": "1199629-4915",
+          "xmin": 874,
+          "ymin": 3400,
+          "xmax": 1099,
+          "ymax": 3427
+        },
+        {
+          "text": "C",
+          "xmin": 1274,
+          "ymin": 3401,
+          "xmax": 1301,
+          "ymax": 3431
+        },
+        {
+          "text": "@dramarianamoretti",
+          "xmin": 1345,
+          "ymin": 3401,
+          "xmax": 1683,
+          "ymax": 3429
+        },
+        {
+          "text": "mamoretti@hotmail.com",
+          "xmin": 1909,
+          "ymin": 3400,
+          "xmax": 2327,
+          "ymax": 3429
+        }
+      ],
+      "raw_text": "Sandzem Dia m NOME PACIENTE AVALIACAO | :21/05/2024 Informacoes Gerais Data 8R3 Habitos O de nascimento : :14/05/1973 O Alimentacao: adequada Idade A 51 anos Cigarro A nao fuma Peso: 105 Kg Alcool | sem excesso Altura: :1.80m Aerobico | 2x/sem I IMC: 32 Kg/m 2 Treino de forca: 2x/sem a Medicamentos Losartana 50 F Outros O mg a n Vacinacao: nao atualizada Hidroclorotiazida 25 mg Urologista: em dia M Aptidao a Exames Laboratoriais Cardiorrespiratoria | - D Glicemi ia de iejum 92mg/dl Boa ( AHA Hemoglobina glicada | 5.2 % Teste Ergometrico: :10 MET TSH :3.49 mUI/mL Colesterol total | 174 mg/dL LDL-C: 111 mg/dL HDL-C T 1 Recomendacoes 36 mg/dL Triglicerides | 122 mg/dL - Reduzir ingesta de gorduras S Repetir laboratorio Acido urico: 7.1 em 3 meses mg/dl colonoscopia Ureia | Solicito 42 2mg/dL Atualizar carteira vacinal. Creatinina: 1.13 mg/dL Manter atividade fisica TGO 17U/L TGP: :19 U/L Dra Mariana Moretti CRM-S 143553 CARDIOLOGIA O Braganca Paulista Atibaia 1199629-4915 C @dramarianamoretti mamoretti@hotmail.com "
+    }
+  ]
+}
